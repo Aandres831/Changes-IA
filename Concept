@@ -55,14 +55,17 @@ Ahorro económico y sostenibilidad ambiental.
 
 Aprendizaje continuo del sistema frente a nuevas condiciones.
 
-4. Comparativa entre Procesos
+## 4. Comparativa entre Procesos
 
-Aspecto	Proceso Tradicional	Solución con IA
-Velocidad de respuesta	Lenta	Alta, en tiempo real
-Costo operativo	Alto	Bajo, con escalabilidad
-Precisión de datos	Variable, con errores	Alta, gracias al monitoreo continuo
-Capacidad predictiva	Limitada	Avanzada, basada en ML
-Adaptabilidad	Escasa	Alta, con aprendizaje automático
+| **Aspecto**                | **Proceso Tradicional**            | **Solución con IA**                        |
+|---------------------------|------------------------------------|--------------------------------------------|
+| Velocidad de respuesta    | Lenta                              | Alta, en tiempo real                       |
+| Costo operativo           | Alto                               | Bajo, con escalabilidad                    |
+| Precisión de datos        | Variable, con errores              | Alta, gracias al monitoreo continuo        |
+| Capacidad predictiva      | Limitada                           | Avanzada, basada en machine learning       |
+| Adaptabilidad             | Escasa                             | Alta, con aprendizaje automático           |
+
+
 5. Reflexión Personal
 Este ejercicio demuestra cómo la inteligencia artificial puede ser un catalizador de sostenibilidad y eficiencia. La transformación de un proceso tan crítico como la gestión de recursos naturales nos permite no solo optimizar su uso, sino también anticipar crisis y actuar con rapidez.
 
